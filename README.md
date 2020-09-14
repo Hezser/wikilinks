@@ -1,5 +1,5 @@
 # Wikilinks
 
-This program traverses Wikipedia articles recursively, returning a list of external links (outside of Wikipedia). The idea is to obtain the most used sources in Wikipedia articles and having fun doing it.
+This program traverses Wikipedia articles, returning a list of external links (outside of Wikipedia). The idea is to analyze the most used sources in Wikipedia articles.
 
-(Yes, I know I need an alien computer to run this to a halt).
+It would take around 25 days with a decent connection to index the entire English Wikipedia.
